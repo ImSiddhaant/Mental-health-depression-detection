@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy
+scikit-learn
+nltk>=3.9
+seaborn
+matplotlib
+wordcloud
